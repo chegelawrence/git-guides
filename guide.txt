@@ -2,4 +2,4 @@ git init - Initialize a git repository on a local machine
 git status - Show tracked/untracked files in a local git repository
 git add - Start tracking changes in a local git repository
 git diff - Show changes made to a file/files relative to the previous contents of the file/files
-git restore - Discard changes in the current working directory
+git restore - Discard changes in the current working directory - Add --staged to restore from the staging area
